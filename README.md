@@ -1,6 +1,6 @@
 # 👋 Hi! I am Anselmo Blanco Dominguez
 
-- 💻 Backend and Full Stack Software Developer
+- 💻 Backend and Full Stack Software Developer, and Data Analyst
 - 🐍 Enthusiast of Python, Django, PostgreSQL, Vue.js, Machine Learning and much more
 - 🌎 Open to new opportunities locally and internationally
 
