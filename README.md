@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Anselmo Blanco Dominguez
 
 - 💻 Software Developer & Data Analyst | 30+ years building reliable, scalable systems
-- 🐍 Passionate about Python, Django, PostgreSQL, Vue.js, and Machine Learning
+- 🐍 Passionate about Python, Django, PostgreSQL, Vue.js, Machine Learning, and Data Analysis
 - 🌎 Open to new opportunities — local or remote, national or international
 
 ## About me
@@ -18,8 +18,8 @@ Proven ability to deliver IT solutions aligned with business goals, lead develop
 
 - Languages: [![Python](https://img.shields.io/badge/Python_%7C_10_y-3776AB?logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript_%7C_10_y-F7DF1E?logo=javascript&logoColor=black)](#)
-[![HTML5](https://img.shields.io/badge/HTML5_%7C_20_y-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3_%7C_20_y-1572B6?logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML(5)_%7C_25_y-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS(3)_%7C_25_y-1572B6?logo=css3&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js_%7C_2_y-4FC08D?logo=vuedotjs&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_%7C_2_y-38B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 - Frameworks: [![Django](https://img.shields.io/badge/Django_%7C_8_y-092E20?logo=django&logoColor=white)](#)
