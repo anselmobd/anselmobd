@@ -16,19 +16,20 @@ Proven ability to deliver IT solutions aligned with business goals, lead develop
 
 #### Actively Used (Current Stack – Past 3 Years)
 
-- Languages: [![Python](https://img.shields.io/badge/Python_%7C_9_y-3776AB?logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript_%7C_9_y-F7DF1E?logo=javascript&logoColor=black)](#)
+- Languages: [![Python](https://img.shields.io/badge/Python_%7C_10_y-3776AB?logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript_%7C_10_y-F7DF1E?logo=javascript&logoColor=black)](#)
 [![HTML5](https://img.shields.io/badge/HTML5_%7C_20_y-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3_%7C_20_y-1572B6?logo=css3&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js_%7C_2_y-4FC08D?logo=vuedotjs&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_%7C_2_y-38B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 - Frameworks: [![Django](https://img.shields.io/badge/Django_%7C_8_y-092E20?logo=django&logoColor=white)](#)
 [![DjangoREST](https://img.shields.io/badge/Django_REST_Framework%7C_2_y-8a2329?logo=django&logoColor=white)](#)
-- Databases: [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%7C_8_y-316192?logo=postgresql&logoColor=white)](#)
+- Databases: [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%7C_9_y-316192?logo=postgresql&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle_%7C_8_y-F80000?logo=oracle&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis_%7C_3_y-DD0031.svg?logo=redis&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL_%7C_20_y-4479A1?logo=mysql&logoColor=fff)](#)
-- Tools & OS: [![Git](https://img.shields.io/badge/Git_%7C_9_y-ef391a?logo=git&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/SQL_Server_%7C_1_y-0078d4?logo=sqlserver&logoColor=fff)](#)
+- Tools & OS: [![Git](https://img.shields.io/badge/Git_%7C_10_y-ef391a?logo=git&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash_%7C_25_y-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux_%7C_25_y-1474b8?logo=linux&logoColor=white)](#)
 
@@ -46,7 +47,6 @@ Proven ability to deliver IT solutions aligned with business goals, lead develop
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-- Databases: [![SQL Server](https://img.shields.io/badge/SQL_Server-0078d4?logo=sqlserver&logoColor=fff)](#)
 
 ### 📫 Find me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anselmo-blanco-dominguez/)
